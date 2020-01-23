@@ -9,7 +9,7 @@ module.exports = {
     {
       resolve: 'gatsby-source-prismic',
       options: {
-        repositoryName: 'resume-test',
+        repositoryName: 'kanewcv',
         accessToken: process.env.API_KEY,
       },
     },
